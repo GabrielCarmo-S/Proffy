@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Proffy" src=".github/logo.svg" height="100px" />
+    <img alt="Proffy" src="./github/logo.svg" height="100px" />
     <br>Next Level Week #2<br/>
     Node.js | ReactJS | React Native
 </h1>
@@ -13,9 +13,12 @@
 
 <p align="center">
   <img alt="design do projeto" width="650px" src="./github/design.png" />
-  <img alt="design do projeto" width="480px" src="./github/n1.gif" />
-  <img alt="design do projeto" width="480px" src="./github/n2.gif" />
-  <img alt="design do projeto" width="480px" src="./github/n3.gif" />
+  <br />
+  <img alt="design do projeto" width="650px" src="./github/n1.gif" />
+  <br />
+  <img alt="design do projeto" width="650px" src="./github/n2.gif" />
+  <br />
+  <img alt="design do projeto" width="650px" src="./github/n3.gif" />
 <p>
 
 ## :bookmark: Sobre
