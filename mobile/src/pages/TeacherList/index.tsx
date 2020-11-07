@@ -13,7 +13,7 @@ function TeacherList() {
 
       <ScrollView style={styles.teacherList} contentContainerStyle={{
         paddingHorizontal: 16,
-        paddingBottom: 24
+        paddingBottom: 16
       }}>
         <TeacherItem />
         <TeacherItem />
