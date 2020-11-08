@@ -1,6 +1,6 @@
-import React from 'react';
+import React, { ReactNode } from 'react';
 import { Image, View, Text } from 'react-native';
-import {BorderlessButton} from 'react-native-gesture-handler';
+import { BorderlessButton } from 'react-native-gesture-handler';
 
 import backIcon from '../../assets/images/icons/back.png';
 import logoImg from '../../assets/images/logo.png';
@@ -9,10 +9,12 @@ import styles from './styles';
 
 interface PageHeaderProps {
   title: string;
+
+  headerRight?: ReactNode;
 }
 
-const PageHeader: React.FC<PageHeaderProps> = ({title}) => {
-  function handleGoBack(){
+const PageHeader: React.FC<PageHeaderProps> = ({ title, children, headerRight }) => {
+  function handleGoBack() {
 
   }
 
@@ -25,7 +27,12 @@ const PageHeader: React.FC<PageHeaderProps> = ({title}) => {
         <Image source={logoImg} resizeMode="contain" />
       </View>
 
-  <Text style={styles.title}>{title}</Text>
+      <View style={styles.header}>
+        <Text style={styles.title}>{title}</Text>
+        {headerRight}
+      </View>
+
+      {children}
     </View>
   )
 }
