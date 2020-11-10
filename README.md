@@ -16,6 +16,8 @@
   <br />
   <img alt="design do projeto" width="650px" src="./github/n1.gif" />
   <br />
+  <img alt="design do projeto" width="100%" src="./github/m1.gif" />
+  <br />
   <img alt="design do projeto" width="650px" src="./github/n2.gif" />
   <br />
   <img alt="design do projeto" width="650px" src="./github/n3.gif" />
