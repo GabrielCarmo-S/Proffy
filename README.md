@@ -12,15 +12,15 @@
 </p>
 
 <p align="center">
-  <img alt="design do projeto" width="650px" src="./github/design.png" />
+  <img alt="design do projeto" width="640px" src="./github/design.png" />
   <br />
-  <img alt="design do projeto" width="650px" src="./github/n1.gif" />
+  <img alt="design do projeto" width="640px" src="./github/n1.gif" />
   <br />
   <img alt="design do projeto" width="400px" src="./github/m1.gif" />
   <br />
-  <img alt="design do projeto" width="650px" src="./github/n2.gif" />
+  <img alt="design do projeto" width="640px" src="./github/n2.gif" />
   <br />
-  <img alt="design do projeto" width="650px" src="./github/n3.gif" />
+  <img alt="design do projeto" width="640px" src="./github/n3.gif" />
 <p>
 
 ## :bookmark: Sobre
